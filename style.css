@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope&family=Volkhov&family=Vollkorn&display=swap');
+.menu{
+	float: left;
+	width: 10%;
+	background-color: white;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	line-height: 1.2;
+}
+.content{
+	float: left;
+	width: 88%;
+	background-color: white;
+}
+h1{
+	font-family: "Manrope", sans-serif;
+	text-align: center;
+	padding-top: 30px;
+	font-size: 80px;
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+}
+h2{
+	font-family: "Manrope", sans-serif;
+	text-align: center;
+	font-size: 30px;
+}
+p{
+	font-family: "Vollkorn", serif;
+	line-height: 1.6;
+	padding-top: 30px;
+	width: 35%;
+	margin-left: auto;
+	margin-right: auto;
+}
+a{
+	font-family: "Vollkorn", serif;
+	color: black;
+}
+figure{
+	display: block;
+	width: 300px;
+}
+figure img{
+	width: 300px;
+	vertical-align: top;
+}
+figure figcaption{
+	font-family: "Manrope", sans-serif;
+	font-size: 15px;
+}
+iframe{
+	display: block;
+	margin: auto;
+}
+.center_cap{
+	text-align: center;
+	font-family: "Manrope", sans-serif;
+	font-size: 15px;
+}
